@@ -1,0 +1,13 @@
+<?xml version = "1.0"?>
+<class>
+	<reciever>
+      <sender>Dinklige</sender>
+      <destination>Minklige</destination>
+      <server>dinkar</server>
+	</reciever>
+   <content>
+	<line1>A</line1>
+	<line2>B</line2>
+	<line3>C</line3>
+   </content>
+</class>
